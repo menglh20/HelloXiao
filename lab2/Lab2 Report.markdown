@@ -77,3 +77,5 @@ So, R5 = 112kΩ, R6 = 100kΩ
 ![image-20260112112747707](board.jpg)
 
 ![image-20260112112747707](serial.png)
+
+github link：https://github.com/menglh20/HelloXiao/blob/main/lab2/readVoltage/src/main.cpp
